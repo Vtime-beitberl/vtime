@@ -61,8 +61,8 @@ This project was developed as part of the "תכנון וניהול פרויקט�
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/danasalh/Beit-Berl-Academic-College-s-Social-Engagement-Unit-.git
-cd Beit-Berl-Academic-College-s-Social-Engagement-Unit-/beit-berl
+git clone https://github.com/Vtime-beitberl/vtime.git
+cd vtime/beit-berl
 ```
 
 ### Project Setup
